@@ -6,7 +6,9 @@
 
 -   Minikube is a lightweight Kubernetes implementation.
 
-### Minikube?
+## Requirements
+
+### Minikube
 
 You can follow [Minikube](https://minikube.sigs.k8s.io/docs/start/) documentation to get started.
 
@@ -14,8 +16,10 @@ You can follow [Minikube](https://minikube.sigs.k8s.io/docs/start/) documentatio
 $ brew install minikube
 ```
 
-### Docker?
+### Docker
 
 Follow the [Docker](https://docs.docker.com/engine/install/) documentation to set up Docker.
+
+### Kubernetes
 
 Follow [this guide](https://kubernetes.io/docs/setup) to set up your environment.
