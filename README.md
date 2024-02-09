@@ -8,7 +8,7 @@
 
 ### Minikube?
 
-Follow this guideline: [minikube](https://minikube.sigs.k8s.io/docs/start/):
+You can follow [Minikube](https://minikube.sigs.k8s.io/docs/start/) documentation to get started.
 
 ```bash
 $ brew install minikube
@@ -16,6 +16,6 @@ $ brew install minikube
 
 ### Docker?
 
-Intall [Docker](https://docs.docker.com/engine/install/).
+Follow the [Docker](https://docs.docker.com/engine/install/) documentation to set up Docker.
 
-You can follow [this guide](https://kubernetes.io/docs/setup) to set up your environment.
+Follow [this guide](https://kubernetes.io/docs/setup) to set up your environment.
