@@ -2,7 +2,7 @@
 
 ## How to start from this demo?
 
--   To host on your local machine, you need VM on your local machine to deploy a simple cluster containing only one node.
+-   To host on your local machine, you need VM on your local machine to deploy a simple cluster containing only one node. In this case, we are using Docker.
 
 -   Minikube is a lightweight Kubernetes implementation.
 
